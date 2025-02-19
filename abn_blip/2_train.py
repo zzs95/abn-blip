@@ -1,0 +1,1 @@
+# sh ./run_scripts/abnclip/train/pretrain_stage1.sh 
